@@ -1,3 +1,8 @@
+
+### Reason for Rapid7 Fork
+The latest stable release does not support the eu-central-1 region.  We need to build this ourself until version [2.4.2](https://github.com/elastic/elasticsearch-cloud-aws/milestones/2.4.2) is released.
+
+
 AWS Cloud Plugin for Elasticsearch
 ==================================
 
